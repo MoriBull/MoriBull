@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data scientist student from Russia 🇷🇺</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+long+time+ago+in+a+galaxy+far,+far+away...+    +   ++a+data+scientist+appeared)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=000000&random=false&width=435&lines=A+long+time+ago+in+a+galaxy+far%2C+far+away...;a+data+scientist+appeared" alt="Typing SVG" /></a>
 <!--
 **MoriBull/MoriBull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
