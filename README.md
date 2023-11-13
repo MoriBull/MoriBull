@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Egor</a> 
+<h1 align="center">Hello there, I'm Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Data scientist student from Russia 🇷🇺</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=100&multiline=true&random=false&width=1000&height=100&lines=A+long+time+ago+in+a+galaxy+far%2C+far+away...++++++++++++++++++a+little+data+scientist+appeared" alt="Typing SVG" /></a>
