@@ -5,7 +5,7 @@
 <h3>Here are all my projects of Big Data and analysis. In future it will be more...</h3>
 
   
- </h4>-ARIMAGARCH. This is kod of forecasting trend and volatility by analysis time series
+ </h4>-ARIMAGARCH. This is code of forecasting trend and volatility by analysis time series
  
   
   -SARIMA (with GARCH). It's upgrade of ARIMAGARCH but now it using 7 params for forecasting instead of 3 </h4>
